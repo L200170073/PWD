@@ -1,0 +1,9 @@
+body {background-image: url("pubg.jpeg")}
+h1{font-family: comic sans ms;
+}
+table {background: pink;}
+.td{font-weight: bold}
+
+table, th, td{
+    border: 1px solid black;
+}
